@@ -12,7 +12,7 @@ attempt to lay out those principles in the clearest way possible.
 - Function and class names should be spelled without abbreviation.
   (i.e. `equivalent_potential_temperature`, not `theta_e`)
 - A single letter variable name is not acceptable for anything other than a counter. Variables
-  should be spelled without abbrevation. (i.e. `temperature`, not `T` or `temp`)
+  should be spelled without abbreviation. (i.e. `temperature`, not `T` or `temp`)
 - Vectorize calculations where possible - nested loops are the last resort.
 - Generalize as much as possible, but no more.
 - Users come first: API design, discoverability, and configurability are paramount.
